@@ -1,4 +1,5 @@
 // This file contains dummy information data
+// GG! Get here please
 
 var dummy_info = {
   // Customer module configs
